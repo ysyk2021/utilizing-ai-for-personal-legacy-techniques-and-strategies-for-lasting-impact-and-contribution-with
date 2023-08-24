@@ -1,5 +1,3 @@
-Creating Personalized Legacy Artifacts with AI-Enabled Design and Production
-====================================================================================================================================================
 
 In today's world, individuals have a variety of tools at their disposal to create lasting personal legacies. One increasingly popular approach involves utilizing AI-enabled design and production techniques to create personalized artifacts that can be shared with future generations.
 

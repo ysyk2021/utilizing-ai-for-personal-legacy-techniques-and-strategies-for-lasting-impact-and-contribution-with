@@ -1,5 +1,3 @@
-Chapter 5: AI Strategies for Personal Legacy Development
-========================================================
 
 As AI technology continues to evolve, individuals seeking to leave a lasting personal legacy can leverage a variety of AI-enabled strategies to increase their impact. In this chapter, we'll explore three key strategies for personal legacy development: fostering relationships and community, investing in education and learning, and volunteering and donating to causes.
 

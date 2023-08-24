@@ -1,5 +1,3 @@
-Measuring the ROI and Effectiveness of AI Implementation in Personal Legacy Practice
-=========================================================================================================================================================================
 
 In this chapter, we will explore how to measure the return on investment (ROI) and effectiveness of AI implementation in personal legacy practice. We will discuss the importance of measuring the impact of AI-enabled legacy strategies and provide guidance on how to do so effectively.
 

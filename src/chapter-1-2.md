@@ -1,5 +1,3 @@
-The Role of AI in Enabling Lasting Impact and Influence through Digital Footprints
-===========================================================================================================
 
 In this chapter, we will introduce the concept of utilizing AI for personal legacy building and preservation. We will explore how digital footprints can be transformed into a lasting impact and influence with the help of AI technology.
 

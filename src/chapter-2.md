@@ -1,5 +1,3 @@
-Chapter 2: Understanding AI Technology for Personal Legacy
-==========================================================
 
 This chapter will cover the basics of AI technology, including its processes, types, and applications, and how it can be used in personal legacy creation and management.
 

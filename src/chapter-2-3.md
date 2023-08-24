@@ -1,5 +1,3 @@
-Tools and Platforms for AI-Enabled Personal Legacy Creation and Contribution
-========================================================================================================================================
 
 In this chapter, we will explore some of the tools and platforms available for individuals to create and contribute to AI-enabled personal legacies.
 

@@ -1,5 +1,3 @@
-Chapter 6: The Impact of AI on Personal Legacy Creation and Contribution
-========================================================================
 
 In this chapter, we will explore the impact of AI on personal legacy creation and contribution. We will discuss how AI can extend the reach and influence of personal legacies, support continuous learning and growth in personal legacy practice, and empower individuals to leave a meaningful and positive mark on the world with AI-enabled legacy strategies.
 

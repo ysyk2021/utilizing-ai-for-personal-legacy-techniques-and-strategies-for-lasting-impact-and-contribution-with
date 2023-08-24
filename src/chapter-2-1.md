@@ -1,5 +1,3 @@
-Basic Concepts and Processes of AI Algorithms for Personal Legacy Creation and Management
-=====================================================================================================================================================
 
 To effectively use AI to create and manage personal legacy, it is essential to understand the basic concepts and processes of AI algorithms. This chapter will cover the fundamental concepts of AI and its applications in personal legacy creation and management.
 

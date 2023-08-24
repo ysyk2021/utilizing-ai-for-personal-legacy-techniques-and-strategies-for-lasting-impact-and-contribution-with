@@ -1,5 +1,3 @@
-Fostering Relationships and Community with AI-Enabled Social Networking and Collaboration
-===================================================================================================================================================
 
 One of the key ways to leave a lasting personal legacy is by building strong relationships and communities that can continue to support and amplify your impact long after you're gone. With the help of AI-enabled social networking and collaboration tools, individuals can take advantage of innovative strategies to foster these relationships.
 

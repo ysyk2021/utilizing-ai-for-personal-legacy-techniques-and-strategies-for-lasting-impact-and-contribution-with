@@ -1,5 +1,3 @@
-Archiving Memories and Experiences with AI-Enabled Digital Preservation and Curation
-============================================================================================================================================================
 
 One of the most powerful ways to leave a lasting personal legacy is by preserving and curating memories and experiences that can be shared with future generations. With the help of AI-enabled digital preservation and curation techniques, individuals can create a rich, immersive record of their lives, and even contribute to historical archives that shape our collective understanding of the world.
 

@@ -1,5 +1,3 @@
-Different Types of AI Techniques and Applications for Legacy Building and Preservation
-==================================================================================================================================================
 
 In this chapter, we will explore the different types of AI techniques and applications that can be used for personal legacy building and preservation.
 
