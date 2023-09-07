@@ -8,3 +8,7 @@ Throughout the book, readers will discover how AI can be used to optimize their 
 Whether you are an entrepreneur, creative professional, or simply someone who wants to make a difference, Utilizing AI for Personal Legacy offers valuable insights and guidance for leveraging the power of AI to achieve your personal and professional goals. With practical advice and real-world examples, this book is an essential resource for anyone looking to make a lasting impact and contribution with technology.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
