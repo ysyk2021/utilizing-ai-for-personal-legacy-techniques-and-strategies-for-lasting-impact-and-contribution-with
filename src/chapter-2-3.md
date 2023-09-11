@@ -1,5 +1,4 @@
-Chapter 8: Tools and Platforms for AI-Enabled Personal Legacy Creation and Contribution
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore a range of tools and platforms that empower individuals to harness the capabilities of AI for creating and contributing to their personal legacies. These tools and platforms serve as invaluable resources for making a lasting impact with technology.
 

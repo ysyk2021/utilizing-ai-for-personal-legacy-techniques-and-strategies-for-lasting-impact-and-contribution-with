@@ -1,5 +1,4 @@
-Chapter 2: Basic Concepts and Processes of AI Algorithms for Personal Legacy Creation and Management
-====================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the fundamental concepts and processes of AI algorithms as they pertain to the creation and management of a personal legacy. Understanding these basics is essential for harnessing the full potential of AI in crafting and maintaining a lasting impact and contribution.
 

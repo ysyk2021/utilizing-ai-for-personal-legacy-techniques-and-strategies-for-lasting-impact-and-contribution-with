@@ -1,5 +1,4 @@
-Chapter 2: Identifying Your Legacy Goals and Objectives for Long-Term Impact and Significance
-=============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the essential process of identifying your legacy goals and objectives. Clarifying your vision and purpose is a fundamental step in utilizing AI for personal legacy, ensuring that your efforts have a lasting impact and contribute meaningfully with technology.
 

@@ -1,5 +1,4 @@
-Chapter 6: Creating a Customized Roadmap for AI Implementation in Your Personal Legacy Strategy
-===============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the process of developing a tailored roadmap for integrating AI into your personal legacy strategy. Crafting a customized plan is crucial for leveraging AI effectively to make a lasting impact and contribution with technology.
 

@@ -1,5 +1,4 @@
-Chapter 5: Empowering Individuals to Leave a Meaningful and Positive Mark on the World with AI-Enabled Legacy Strategies
-========================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore how AI can empower individuals to make a lasting and positive impact on the world through innovative legacy strategies. We'll discuss the tools and techniques that harness artificial intelligence to amplify your ability to create a meaningful legacy.
 

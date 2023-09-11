@@ -1,5 +1,4 @@
-Chapter 7: Fostering Relationships and Community with AI-Enabled Social Networking and Collaboration
-====================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how AI can be leveraged to enhance social networking and collaboration efforts, enabling individuals to build meaningful relationships and communities that contribute to a lasting personal legacy.
 

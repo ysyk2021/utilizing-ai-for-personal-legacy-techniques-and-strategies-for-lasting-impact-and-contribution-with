@@ -1,5 +1,4 @@
-Chapter 5: Selecting the Right AI Tools and Platforms for Your Personal Legacy Needs
-====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the process of choosing the most suitable AI tools and platforms to align with your personal legacy goals. Selecting the right AI solutions is crucial for effectively harnessing technology to create a lasting impact and contribute meaningfully to your legacy.
 

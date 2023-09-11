@@ -1,5 +1,4 @@
-Chapter 11: Measuring the ROI and Effectiveness of AI Implementation in Personal Legacy Practice
-================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the crucial aspect of measuring the Return on Investment (ROI) and overall effectiveness of implementing AI in your personal legacy practice. Understanding how to assess the impact of AI technologies is essential for optimizing your strategies and ensuring a lasting contribution with technology.
 

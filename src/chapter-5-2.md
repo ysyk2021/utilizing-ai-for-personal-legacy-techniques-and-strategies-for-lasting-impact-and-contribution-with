@@ -1,5 +1,4 @@
-Chapter 10: Investing in Education and Learning with AI-Enabled Personal Development and Training
-=================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the significant role that AI plays in personal development and lifelong learning. Investing in education and training with AI can empower individuals to enhance their knowledge, skills, and capabilities, ultimately contributing to a more impactful and lasting personal legacy.
 

@@ -1,5 +1,4 @@
-Chapter 6: Creating Personalized Legacy Artifacts with AI-Enabled Design and Production
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the innovative realm of AI-enabled design and production, exploring how artificial intelligence can help individuals craft personalized legacy artifacts that leave a lasting impact and contribute to their enduring legacy.
 

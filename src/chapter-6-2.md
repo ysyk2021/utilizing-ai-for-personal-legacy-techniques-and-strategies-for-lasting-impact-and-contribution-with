@@ -1,5 +1,4 @@
-Chapter 4: Supporting Continuous Learning and Growth in Personal Legacy Practice with AI-Enabled Feedback and Improvement
-=========================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the power of AI to facilitate continuous learning and growth in your personal legacy practice. We will explore techniques and strategies that harness artificial intelligence to provide valuable feedback and aid in improving your lasting impact and contributions.
 

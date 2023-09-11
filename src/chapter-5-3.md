@@ -1,5 +1,4 @@
-Chapter 9: Volunteering and Donating to Causes with AI-Enabled Philanthropy and Social Impact
-=============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how individuals can harness the power of AI to make a meaningful impact through volunteering and donating to causes. By leveraging AI-enabled philanthropy and social impact initiatives, you can extend your legacy of contribution and create lasting change in the world.
 

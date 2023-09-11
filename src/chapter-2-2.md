@@ -1,5 +1,4 @@
-Chapter 5: Different Types of AI Techniques and Applications for Legacy Building and Preservation
-=================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the diverse array of AI techniques and applications that can be harnessed to build and preserve a meaningful personal legacy. By understanding the capabilities of these AI tools, you can craft a lasting impact and contribution with technology.
 

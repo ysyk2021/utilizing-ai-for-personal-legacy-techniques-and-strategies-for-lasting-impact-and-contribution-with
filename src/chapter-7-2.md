@@ -1,5 +1,4 @@
-Chapter 8: Identifying Key Performance Metrics and Goals for AI-Enabled Personal Legacy Optimization
-====================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the critical task of identifying key performance metrics and setting clear goals for optimizing your personal legacy through AI. By establishing metrics and objectives, you can measure the impact of your AI-driven strategies and ensure that your legacy continues to evolve and make a lasting contribution.
 
